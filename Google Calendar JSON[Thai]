@@ -1,0 +1,49 @@
+{
+  "content": "<@&892225242506866768>",
+  "embeds": [
+    {
+      "title": "<<<{{Title}}>>>",
+      "description": "งาน : <<<{{Title}}>>>\nรายละเอียด : <<<{{Description}}>>>\nLINKงาน : <<<{{EventUrl}}>>>\nเริ่ม : <<<{{Starts}}>>>\nหมดเขต : <<<{{Ends}}>>>\nรวมงานทั้งหมด\nhttps://calendar.google.com/calendar/u/0?cid=Y18yYXB0dHM2MDJvdmVvcHQyZzFxZnJvaTliMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t\nยศที่รับการแจ้งเตือน <@&892225242506866768>\nสามารถตั้งค่าการแจ้งเตือนที่ห้อง <#891949484739817472>",
+      "color": 65433,
+      "fields": [
+        {
+          "name": "รันบน",
+          "value": "https://ifttt.com/"
+        },
+        {
+          "name": "เขียนบน",
+          "value": "https://discohook.org"
+        }
+      ],
+      "author": {
+        "name": "งานใกล้ถึงกำหนดส่งแล้วน้าาา!!!",
+        "url": "https://calendar.google.com/calendar/u/0?cid=Y18yYXB0dHM2MDJvdmVvcHQyZzFxZnJvaTliMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        "icon_url": "https://www.freeiconspng.com/thumbs/calendar-image-png/calendar-image-png-3.png"
+      },
+      "footer": {
+        "text": "คุณมีเวลาอีก 4 ชม. ก่อนที่งานจะเริ่ม เตรียมตัวให้พร้อม เสร็จก่อนส่งก่อน สบายก่อนเด้อ!!",
+        "icon_url": "http://assets.stickpng.com/images/580b585b2edbce24c47b2769.png"
+      },
+      "image": {
+        "url": "https://images-ext-1.discordapp.net/external/4FWUe8dGEB8caQyE5vMP7auSp_53S4HNGmQhtXeygnU/https/www.animatedimages.org/data/media/562/animated-line-image-0447.gif"
+      },
+      "thumbnail": {
+        "url": "https://lh3.googleusercontent.com/proxy/jzddB8w2yx9YVCSCUKWIFdUbL3b38mWWU99Fai4TfpMuDis-SO2SPSmjyjEhLKRwChWhbRtpx5AmsZRfbqBXg6plknAXgkpHD30TAg"
+      }
+    },
+    {
+      "title": "บอทตัวนี้จัดทำโดย",
+      "description": "<@402032956832481304>",
+      "url": "https://github.com/mudmini009",
+      "color": 16711680,
+      "footer": {
+        "text": "ขอขอบพระคุณเป็นอย่างสูงครับ",
+        "icon_url": "https://avatars.githubusercontent.com/u/54277976?s=400&u=0dad6365de50e447e758395fc2563e85f1e24f57&v=4"
+      },
+      "timestamp": "2021-10-04T14:58:00.000Z",
+      "thumbnail": {
+        "url": "https://media.discordapp.net/attachments/710336720800841823/894599065852067900/facebookpfp.gif"
+      }
+    }
+  ]
+}
